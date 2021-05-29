@@ -21,6 +21,7 @@ namespace WindowsFormsApp1
         {
             MessageBox.Show("fjhfbjhbj");
             MessageBox.Show(" kurama");
+            //naruto
         }
     }
 }
